@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ Michael Geo Josh M.S
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning Nest.js
-- 💞️ I’m looking to collaborate on TCS
+- 💞️ I’m looking to collaborate on ZOHO
 - 📫 How to reach me www.linkedin.com/in/michael-geo-josh-m-s-4b4714208
 
 <!---
